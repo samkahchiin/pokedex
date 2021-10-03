@@ -19,3 +19,4 @@
 ## Acknowledgments
 
 - [Practical Guide to Typescripts](https://www.ibrahima-ndaw.com/blog/a-practical-guide-to-typescript/#build-a-pokedex-app-using-typescript)
+- [How to Host Your Static Webpages on GitHub Pages](https://app.pluralsight.com/guides/how-to-host-your-static-webpages-on-github-pages)

@@ -12,7 +12,7 @@
 ## Technologies
 
 <p align="left">
-  <img src="https://img.icons8.com/ios/50/000000/css.png" alt="css3" width="30" height="30"/>
+  <img src="https://img.icons8.com/material-outlined/50/000000/css.png" alt="css3" width="30" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="30" height="30"/>
 </p>
 
